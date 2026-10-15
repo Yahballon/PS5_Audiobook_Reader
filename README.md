@@ -2,15 +2,11 @@
 
 [![Build PS5 Audiobook Reader](https://github.com/Yahballon/PS5_Audiobook_Reader/actions/workflows/build.yml/badge.svg)](https://github.com/Yahballon/PS5_Audiobook_Reader/actions/workflows/build.yml)
 
-**Standalone GitHub repository:** [Yahballon/PS5_Audiobook_Reader](https://github.com/Yahballon/PS5_Audiobook_Reader).
-
 A native, controller-first M4B audiobook player by YAHBALLON, inspired by the bookshelf experience of the [PS5 Ebook Reader](https://github.com/Yahballon/PS5_Ebook_Reader). This application is separate from the Ebook Reader.
 
 ## HD PS5 Icon
 
 ![Audiobook Reader HD neon icon](sce_sys/icon0.png)
-
-The new 512x512 neon bookshelf/headphones artwork replaces the former upscaled 48px app icon. It is embedded in the PS5 home-screen icon and the packaged app asset.
 
 ## Features
 
