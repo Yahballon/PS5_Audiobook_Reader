@@ -1,0 +1,7 @@
+# Native build outputs
+app/
+*.elf
+*.o
+*.a
+*.zip
+__pycache__/
